@@ -15,7 +15,8 @@ I am Alejandro Ramirez, a young technology enthusiast who seeks to learn and cre
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
   <code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
   <code><img height="25" src="https://github.com/UjwalKandi/UjwalKandi/blob/c45f674e1145d04d97cd57f4e9dac336c5e29600/svg/jira-3.svg" alt="Jira"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker" alt="Docker"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim"></code>
 
 </p>
 
