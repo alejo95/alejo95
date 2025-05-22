@@ -5,7 +5,7 @@
 I am Alejandro Ramirez, a young technology enthusiast who seeks to learn and create a world where knowledge is free and accessible to all, as is technology. That is why iamdevops was born, a space where I share my knowledge and experiences in the world of technology, especially DevOps.
 
 - 🎓 I'm a Software Engineering
-- ⚡ I love photography, programming, data science and DevOps
+- ⚡ I love DevOps, programming, data science and photography
   
 #### Languages and Tools 
 <p>
